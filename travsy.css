@@ -1,0 +1,12 @@
+h4{
+    color:peru;
+    background-color: yellowgreen;
+}
+body{
+    background-color: #f4f4f4;
+    columns: #555555;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    font-weight:bold;
+    line-height:1.6em;
+}
